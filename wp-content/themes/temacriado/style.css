@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/*!
+ *
+ * Theme Name: Criação de Tema
+ *
+ * Theme URI: http://www.gadev.com.br
+ *
+ * Description: O melhor tutorial de tema
+ *
+ * Author: Gabriel Antonio
+ *
+ * Author URI: http://www.gadev.com.br
+ *
+ * Version: 1.0
+ *
+ * */
+h1 {
+  color: red !important;
+}
+
+/*# sourceMappingURL=style.css.map */
